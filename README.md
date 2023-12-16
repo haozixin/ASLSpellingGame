@@ -37,10 +37,10 @@ First, ``cd backend`` to the backend folder. Then run ``node server.js`` to run 
 Then, open another terminal and ``cd frontend`` to the frontend folder. Then run ``npm run dev`` to run the frontend interface. Next, click the link provided.
 
 ## Our Team (Sorted By Alphabetical Order, Not in Contribution Order)
-Guoxiang Ran, Southeast University, China <br>
-Hongwen Pu, Dulwich College (Singapore), Singapore <br>
-Minghua Ying, Southeast University, China <br>
-Raykio (Keyi) Yi, Dulwich College (Suzhou), China
+Guoxiang Ran, Southeast University, China; https://github.com/Squincat <br>
+Hongwen Pu, Dulwich College (Singapore), Singapore; https://github.com/boypu123<br>
+Minghua Ying, Southeast University, China; https://github.com/ahuahaha <br> 
+Raykio (Keyi) Yi, Dulwich College (Suzhou), China; https://github.com/Raykxia
 
 
 ## Acknowledgement
